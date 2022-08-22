@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm from Italy, currently working in a full-remote team.
-- Nowadays, I mainly write code in Python and JavaScript/TypeScript (React).
+- These days I mainly write code in Python and JavaScript/TypeScript (React).
 - I'm the author of [Cloup](https://github.com/janluke/cloup), a library that extends Click with several features. From time to time, I contribute to Click as well.
 
 ### Stats
